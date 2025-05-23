@@ -88,7 +88,7 @@ Use `spl-token` CLI or Anchor bindings to create SPL tokens.
 
 | Phase                     | Time      | Cost Estimate              |
 | ------------------------- | --------- | -------------------------- |
-| Anchor smart contract     | 7–10 days | \$3000–\$5000              |
+| Anchor smart contract     | 10–12 days| \$4000–\$6000              |
 | Testnet deployment        | 1 day     | Free (devnet SOL)          |
 | Node.js backend setup     | 5–7 days  | \$1000–\$2000              |
 | PostgreSQL + Redis setup  | 2–3 days  | \$500–\$1000               |
@@ -162,6 +162,6 @@ Use `spl-token` CLI or Anchor bindings to create SPL tokens.
 | Startup Phase       | DIY / MVP | Lean Launch | Premium Launch |
 | ------------------- | --------- | ----------- | -------------- |
 | Time to Launch      | 4–6 weeks | 8–10 weeks  | 12+ weeks      |
-| Total Budget Needed | \$3k–\$6k | \$7k–\$12k  | \$15k+         |
+| Total Budget Needed | \$3k–\$6k | \$7k–\$12k  | \$17k+         |
 
 > If you want a fast, low-fee chain and can handle the Rust learning curve, **Solana is a great choice** for high-frequency apps or games.
